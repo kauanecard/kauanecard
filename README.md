@@ -1,4 +1,4 @@
-<h2 align="left"> OLÁ!💖 Eu sou a Kauane Cardoso! Bem vinde ao meu mundinho secreto💖</h2>
+<h2 align="left"> OLÁ!💖 Eu sou a Kauane Cardoso! Bem vindo(a) ao meu mundinho secreto💖</h2>
 
 ###
 
